@@ -3,6 +3,20 @@
     padding: 0;
 }
 
+.cabecalho {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url(../images/bg-header-mobile.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img__cabecalho {
+    width: 25vw;
+    margin: 100px 0 40px 0;
+}
 
 
 
