@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: 'Bai Jamjuree', sans-serif;
 }
 
 .cabecalho {
@@ -14,9 +15,30 @@
 }
 
 .img__cabecalho {
-    width: 25vw;
+    width: 40vw;
     margin: 100px 0 40px 0;
 }
 
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.container__caixa-01 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 30px 5vw;
+    text-align: center;
+}
+
+.caixa-h1__titulo {
+    color: hsl(210, 10%, 33%);
+    font-size: 2em;
+    font-weight: 600;
+}
 
 

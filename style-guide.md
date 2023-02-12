@@ -10,14 +10,15 @@ The designs were created to the following widths:
 ## Colors
 
 ### Primary
+botoes
 
 - Strong Cyan: hsl(171, 66%, 44%)
 - Light Blue: hsl(233, 100%, 69%)
 
 ### Neutral
 
-- Dark Grayish Blue: hsl(210, 10%, 33%)
-- Grayish Blue: hsl(201, 11%, 66%)
+- Dark Grayish Blue: hsl(210, 10%, 33%) titulo
+- Grayish Blue: hsl(201, 11%, 66%) paragrafo
 
 ## Typography
 
