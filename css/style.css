@@ -41,7 +41,35 @@
     font-weight: 600;
 }
 
+.caixa-p1__texto {
+    color: hsl(201, 11%, 66%);
+    font-size: 1em;
+    margin: 30px 0;
+}
 
+.caixa-b__download-ios {
+    border: none;
+    border-radius: 40px;
+    color: #ffffff;
+    padding: 10px 40px;
+    background-color: hsl(171, 66%, 44%);
+    box-shadow: 2px 2px hsl(172, 77%, 28%);
+    font-size: 1.1em;
+    font-weight: 600;
+    margin: 10px 0;
+}
+
+.caixa-b__download-mac {
+    border: none;
+    border-radius: 40px;
+    color: #ffffff;
+    padding: 10px 40px;
+    background-color: hsl(233, 100%, 69%);
+    box-shadow: 2px 2px hsl(233, 54%, 52%);
+    font-size: 1.1em;
+    font-weight: 600;
+    margin: 10px 0;
+}
 
 
 
