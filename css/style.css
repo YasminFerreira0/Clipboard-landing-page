@@ -303,46 +303,35 @@
     /**/
     
     .container__caixa-04 {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        margin: 90px 5vw;
-        text-align: center;
+        width: 50vw;
     }
     
     .img-devices {
-        width: 85vw;
-        align-self: center;
+        width: 60vw;
     }
     
-    .container__caixa-05 {
+    .container_caixa-06 {
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
         justify-content: center;
-        margin: 70px 5vw;
         text-align: center;
+        gap: 20px;
+        margin: 20px 0;
     }
-    
-    .container_-caixa-06 {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        margin: 30px 5vw;
-        text-align: center;
-        gap: 60px;
+
+    .caixa-06__bloco {
+        width: 26vw;
     }
     
     .container__caixa-07 {
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
         justify-content: center;
-        margin: 100px 5vw;
+        margin: 150px 0;
         text-align: center;
-        gap: 60px;
+        gap: 90px;
     }
     
     .container__caixa-08 {
